@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9730657
+  lightness: 0.1415771
+  brandStrength: 0.4946237
+  brandColors:
+    - '#FFFFFF'
+    - '#106939'
+    - '#A2B526'
+    - '#98BEAB'
+    - '#B5C55B'
+  rhythmicContrast: 0.5448028
+typography_spectrum: 0.06272402
+name: Jolley Juice
